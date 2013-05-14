@@ -1,0 +1,9 @@
+c:\users\1010518\documents\visual studio 2010\Projects\random\random\bin\Debug\random.exe
+c:\users\1010518\documents\visual studio 2010\Projects\random\random\bin\Debug\random.pdb
+c:\users\1010518\documents\visual studio 2010\Projects\random\random\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\1010518\documents\visual studio 2010\Projects\random\random\obj\x86\Debug\random.Form1.resources
+c:\users\1010518\documents\visual studio 2010\Projects\random\random\obj\x86\Debug\random.Properties.Resources.resources
+c:\users\1010518\documents\visual studio 2010\Projects\random\random\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\1010518\documents\visual studio 2010\Projects\random\random\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\1010518\documents\visual studio 2010\Projects\random\random\obj\x86\Debug\random.exe
+c:\users\1010518\documents\visual studio 2010\Projects\random\random\obj\x86\Debug\random.pdb
